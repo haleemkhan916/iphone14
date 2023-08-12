@@ -1,0 +1,407 @@
+* {
+  text-transform: capitalize !important;
+  /* font-family: 'Poppins', sans-serif; */
+font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* nav bar css  */
+
+.theme {
+  background-color: black;
+}
+
+.fa-apple {
+  color: #cccccc;
+}
+
+.navbar-brand {
+  padding-left: 90px;
+}
+
+.nav-link {
+  font-size: 12px;
+  font-weight: 400px;
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.nav-item {
+  padding: 0 7px 0 7px;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-color: white;
+}
+
+.second-nav ul {
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  gap: 26px;
+}
+.nav-main {
+  justify-content: space-around !important;
+  display: flex;
+  color: white;
+  padding-top: 15px;
+}
+
+.btn-buy,
+.btn-1 {
+  background-color: #0071e3;
+  border: none;
+  border-radius: 15px;
+  font-size: 12px;
+  color: white;
+  padding: 3px;
+  width: 40px;
+  font-weight: 600px;
+  text-align: center;
+}
+
+.overview {
+  color: #777777;
+  font-size: 12px;
+  font-weight: 400px;
+}
+
+.second-nav li {
+  font-size: 12px;
+  color: #adadad;
+}
+
+.main-title {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 21px;
+}
+.title-bg {
+  background-color: #161617;
+}
+.main-title a {
+  text-decoration: none;
+}
+
+/* pro beyond section  */
+
+.beyond-text {
+  font-size: 70px;
+  color: #cecece;
+}
+
+.nav-pills .nav-link {
+  border-radius: 50%;
+  background-color: #0071e3;
+  width: 20px;
+  height: 20px;
+  padding: 0px;
+}
+
+.nav-link.active {
+  border: 1px solid blue;
+}
+
+#pills-disabled-tab {
+  background-color: #777777;
+}
+
+#pills-contact-tab {
+  background-color: #f5f5f7;
+}
+
+#pills-profile-tab {
+  background-color: #f4e8ce;
+}
+#pills-home-tab {
+  background-color: #594f63;
+}
+
+.bg {
+  background-color: #161617;
+}
+
+.but-text {
+  color: #86868b;
+  text-align: center;
+  font-weight: 800px !important;
+}
+.buy-title {
+  height: 350px;
+}
+
+.btn-1 {
+  width: 60px !important;
+  height: 40px;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 700px;
+}
+
+.custom-column {
+  background-color: #000000;
+  border-radius: 30px;
+  height: 742px;
+}
+
+.mp-text {
+  color: white;
+  position: absolute;
+  font-size: 25px;
+  width: 70%;
+  left: 60px;
+  top: 260px !important;
+  bottom: 0px;
+}
+
+.mastermind {
+  font-size: 28px;
+  width: 50%;
+  height: 150px;
+  color: #c058ff;
+}
+
+.custom-1 {
+  background-color: #000000;
+  overflow: hidden;
+  border-radius: 30px;
+}
+
+.master-pic {
+  margin: 35px 0px 0px 88px;
+  width: 100%;
+  height: 200px;
+  position: relative;
+  top: 70px;
+}
+
+.rounded-b {
+  border-radius: 30px !important;
+}
+.meet-text {
+  color: #c058ff;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+
+.thats {
+  color: #c058ff;
+  font-size: 23px;
+}
+.all {
+  color: #c058ff;
+  font-size: 50px;
+  font-weight: 800;
+}
+
+.all-bg {
+  background-color: black;
+  border-radius: 30px !important;
+}
+.video img {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 30px;
+}
+
+.bg-custom {
+  background-color: #000000;
+}
+
+.action-title {
+  position: absolute;
+  top: 100px;
+  left: 110px;
+  color: white;
+  font-size: 35px;
+  font-weight: 700;
+  z-index: 9;
+}
+
+.water-r img {
+  width: 100%;
+  border-radius: 30px;
+}
+
+.emergency img {
+  border-radius: 30px;
+  width: 100%;
+  height: 663px;
+}
+
+.sos {
+  font-size: 30px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-weight: 900px;
+  padding-top: 10px;
+}
+
+.crash {
+  position: absolute;
+  top: 90px;
+  left: 91px;
+}
+
+.detection img {
+  width: 100%;
+  height: 338px;
+  border-radius: 30px;
+}
+.size-pro {
+  border-radius: 30px;
+}
+.size-pro img {
+  width: 50%;
+}
+
+.iphone-title {
+  font-size: 50px;
+  color: #cecece;
+  font-weight: bolder;
+}
+
+.card-title {
+  color: #f5f5f7;
+  font-size: 24px;
+  line-height: 1.1666666667;
+  font-weight: 600;
+  letter-spacing: 0.009em;
+  font-family: Helvetica, Helvetica, Arial, sans-serif;
+}
+
+.bg-card {
+  background-color: black;
+  padding: 42px;
+  border-radius: 30px;
+}
+
+.apple-text {
+  color: #e9e9ea;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.which-iphone {
+  display: flex;
+  justify-content: end !important;
+  gap: 364px;
+  align-items: center;
+  font-size: 20px;
+}
+
+.pro-title {
+  color: white;
+}
+
+.border-line {
+  border: 1px solid white;
+}
+
+.island-title {
+  color: #616164;
+}
+
+.b-line {
+  border: 1px solid #424245;
+  width: 100%;
+  margin: 50px 50px;
+}
+
+.icons img {
+  width: 12%;
+}
+
+.shop-tittle p {
+  color: #c1c1c6;
+}
+
+.font-icon i {
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  display: flex;
+  justify-content: end;
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  font-family: 900px;
+}
+
+.icon-1 {
+  position: absolute;
+  top: 320px;
+  left: 325px;
+}
+.icon-2 {
+  position: absolute;
+  top: 300px;
+  left: 290px;
+}
+
+.icon-3 {
+  position: absolute;
+  top: 340px;
+  left: 660px;
+}
+.icon-4 {
+  position: absolute;
+  top: 600px;
+  left: 299px;
+}
+.icon-5 {
+  top: -20px;
+  position: relative;
+}
+
+.sub-menu li {
+  padding-left: 132px;
+}
+.sub-menu {
+  display: none !important;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #f9f9f9;
+  padding: 10px;
+  width: 100%;
+  transition: top 0.3s ease;
+  background-color: #161617;
+  z-index: 9;
+  color: white;
+  transition: .3s;
+  animation-delay: .3s;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li:hover > .sub-menu {
+  display: block !important;
+  top: 100%;
+}
+
+.main-menu {
+  display: flex;
+}
+
+/* @media screen and (max-width: 768px) {
+  .main-title {
+    font-size: 12px;
+    width: 100%;
+  }
+  .navbar-brand {
+    padding: 0px;
+  }
+  .nav-main {
+    display: none;
+  }
+} */
